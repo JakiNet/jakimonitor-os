@@ -2,7 +2,7 @@
 
 **JakiMonitor OS** es un monitor de sistema avanzado diseñado específicamente para **Kali Linux**. Inspirado en la estética de Kodachi, ofrece una visión completa de la seguridad, red y hardware de tu máquina en tiempo real.
 
-![JakiMonitor Preview](screenshots/fotoOSmonitor.png)
+![JakiMonitor Preview](screenshots/banner.png)
 
 ## 🕵️ Características Principales
 - **Seguridad de Red:** Estado de TOR, VPN (tun0), IP Pública y conteo de conexiones TCP/UDP.
@@ -19,7 +19,11 @@ git clone https://github.com/JakiNet/jakimonitor-os.git
 cd jakimonitor-os
 chmod +x install.sh
 ./install.sh
+
+si llega a fallar por permisos de usuario, ejecuta todo con root
+
 ```
+
 ## 🕹️ Comandos de Uso
 
 Después de la instalación, puedes usar estos comandos desde cualquier terminal:
