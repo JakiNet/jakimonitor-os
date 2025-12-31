@@ -2,7 +2,7 @@
 
 **JakiMonitor OS** es un monitor de sistema avanzado diseñado específicamente para **Kali Linux**. Inspirado en la estética de Kodachi, ofrece una visión completa de la seguridad, red y hardware de tu máquina en tiempo real.
 
-![JakiMonitor Preview](screenshots/jakiOSfoto.png)
+![JakiMonitor Preview](screenshots/fotoOSmonitor.png)
 
 ## 🕵️ Características Principales
 - **Seguridad de Red:** Estado de TOR, VPN (tun0), IP Pública y conteo de conexiones TCP/UDP.
